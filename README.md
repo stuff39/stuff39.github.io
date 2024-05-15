@@ -1,1 +1,1 @@
-# stuff39.github.io
+# https://stuff39.github.io/cc/
