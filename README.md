@@ -1,1 +1,1 @@
-# https://stuff39.github.io/cc/
+<a href="https://stuff39.github.io/cc/">Cookie Clicker</a>
