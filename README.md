@@ -1,4 +1,4 @@
-<a href="https://stuff39.github.io/cc/">Cookie Clicker</a>
+<a href="https://stuff39.github.io/software-that-used-to-be-named-after-a-function-of-a-mouse-and-a-type-of-baked-goods/">Cookie Clicker</a>
 
 
 <a href="https://stuff39.github.io/tjse/">Tetr.js Enhanced</a>
